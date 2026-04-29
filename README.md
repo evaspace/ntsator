@@ -39,8 +39,8 @@ A quick and fun tool developed for the "NTS Cyber Security Course" at EPITA. Thi
 3. **Configure Environment Variables**:
    Create a `.env` file in the root directory (or edit the existing one):
    ```env
-   BASE_URL=https://ranku1.exegide.com
-   TOKEN=EXE30
+   BASE_URL=https://.exemple.com
+   TOKEN=token
    ```
 
 ## Usage
